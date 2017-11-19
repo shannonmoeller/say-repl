@@ -15,8 +15,9 @@ $ npm install --global say-repl
   say-repl [name] [color]
 
   Examples
+    $ say-repl
+    $ say-repl Victoria
     $ say-repl Daniel orange
-    $ say-repl Victoria gray
 ```
 
 ----
