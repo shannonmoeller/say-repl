@@ -1,9 +1,24 @@
-`say-repl`
+# `say-repl`
 
-A `say` repl. My kids' favorite cli.
+A read-eval-print loop for the macOS [`say`](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/say.1.html) command, or a CLI puppet to entertain my kids.
+
+## Install
+
+```
+$ npm install --global say-repl
+```
+
+
+## Usage
+
+```
+  say-repl [name] [color]
+
+  Examples
+    $ say-repl Daniel orange
+    $ say-repl Victoria gray
+```
 
 ----
 
-© 2017 Shannon Moeller <me@shannonmoeller.com>
-
-Licensed under [MIT](http://shannonmoeller.com/mit.txt)
+MIT © [Shannon Moeller](http://shannonmoeller.com)
