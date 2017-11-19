@@ -1,0 +1,14 @@
+{
+  "name": "say-repl",
+  "version": "1.0.0",
+  "description": "A `say` repl.",
+  "main": "index.js",
+  "bin": "repl.js",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "Shannon Moeller <me@shannonmoeller.com>",
+  "license": "MIT"
+}
