@@ -1,6 +1,6 @@
 {
   "name": "say-repl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A read-eval-print loop for the macOS say command.",
   "main": "index.js",
   "bin": "repl.js",
